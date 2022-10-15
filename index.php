@@ -97,7 +97,7 @@ button {
       </div>
       <div class="inputs">
         <label for="">Phone Number</label>
-        <input type="number" required placeholder="+123 456 7890 " />
+        <input type="number" name="number" required placeholder="+123 456 7890 " />
       </div>
       <div class="inputs">
         <label for="">Email</label>
